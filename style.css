@@ -1,0 +1,28 @@
+body{background-color: rgb(250, 184, 215);color:rgb(62, 85, 95);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 16px;}
+h1{text-align: center;}
+p{width: 600px;
+margin-left: 300px;
+line-height: 1.5;
+text-align: justify;}
+nav{width: 200px;
+padding-left: 30px;
+line-height: 2;
+}
+.vpravo{float: right;}
+.vlevo{float: left;}
+
+img{margin-right: 100px;}
+
+a:link{color: darkseagreen; text-decoration: none;}
+a:visited{color:rgb(211, 173, 101)}
+:active{color: lightcoral;}
+a:hover{color: rgb(249, 207, 141);background-color: brown;}
+
+article{width: 30%;
+float: left;
+border: thin solid; 
+padding: 30px 5px 0px 5px;
+border-radius: 10px;
+margin: 0px 15px 30px 15px;}
